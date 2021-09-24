@@ -1,0 +1,13 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Nabil Hanan",
+        "nim": "21120118120024",
+        "ttl" : "Samarinda, 15 Desember 1999"
+    }, {
+        "id": 2,
+        "name": "Indira Ananda Putra Utama",
+        "nim": "21120118130091",
+        "ttl": "Pati, 15 Februari 2000"
+    }]
+}
